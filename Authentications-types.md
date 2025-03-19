@@ -1,8 +1,6 @@
-# Authentications
+# Authentications Types
 
-## Authentication types
-
-### Via username and password
+## Username and Password
 
 1. Adicionar username e password as configurações do Git.
 
@@ -13,9 +11,10 @@ git config --global user.email "seuemail@example.com"
 
 2. Realizar login via browser
 
-O login será solicitado automaticamente ao realizar push do local repository to remote repository.
+Ao fazer commit/push ou clonar um repositório vai abrir um popup.
+Selecione a autenticação via Browser e informe o username e password.
 
-### Via personal access token
+## Personal Access Token
 
 1. Gerar o token na conta do GitHub
 
@@ -33,5 +32,10 @@ Essa configuração será necessária para a realização de commits.
 
 4. Adicionar token
 
-Ao fazer o primeiro commit ou clonar um repositório vai abrir um popup.
+Ao fazer commit/push ou clonar um repositório vai abrir um popup.
 Selecione a autenticação via Token e informe o token.
+
+## SSH Key
+
+## Two-Factor Authentication - 2FA
+
