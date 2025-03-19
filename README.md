@@ -3,6 +3,6 @@ Repository for studies on Git and GitHub
 
 ## Subjects
 
-- [Settings](Git-bash/git-config-command.md)
+- [Settings](Settings.md)
 - [Authentications](Authentications.md)
 
