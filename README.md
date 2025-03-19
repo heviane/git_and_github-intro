@@ -1,4 +1,4 @@
-# git_and_github-intro
+# Git and GitHub
 Repository for studies on Git and GitHub
 
 ## Subjects
