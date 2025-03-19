@@ -17,7 +17,7 @@ git config --list
 ```bash
 git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@example.com"
-  ```
+```
 
 - **Definir um editor padrão:**  
 
